@@ -1,6 +1,6 @@
 # ONUToday: identidade visual e mockup de app
 
-Trabalho da prova de **Design de Mídia Digital** da Go Skills 2026, na Índia, em que conquistei a **medalha de ouro**.
+Trabalho da prova de **Design de Mídia Digital** da Go Skills 2026, na Índia, em que conquistei a **medalha de prata**.
 
 ONUToday é um veículo de notícias fictício da ONU, com o lema *A Global View, With Context*.
 
